@@ -1,0 +1,95 @@
+/* Reset estilo basico */
+
+* { 
+    margin: 0;
+
+    padding: 0%;
+
+    box-sizing: border-box;
+
+}
+
+/* Estilo */
+
+body {
+
+    font-family: 'Times New Roman', Times, serif;
+
+    line-height: 1.6;
+
+    color: #001b75;
+
+    background-color: #ffffff;
+
+}
+
+/* Estilo cabecalho */
+
+header {
+ 
+    background-color: linear-gradient(to right, #4c6c81, #083263);
+
+    color: #ffffff;
+
+    padding: 20px;
+
+    text-align: center;
+
+    linear
+}
+
+/* Estilo conteudo principal */
+
+main {
+
+  padding: 20px;
+
+}
+
+/*Estilo da lista*/
+
+ul {
+
+    list-style-type: square;
+
+    padding-left: 20px;
+
+}
+
+/* Estilo das seções*/
+
+section {
+
+    margin-bottom: 20px;
+
+}
+
+/* Estilo da lista */
+
+ul {
+
+    list-style-type: square;
+
+    padding-left: 20px;
+
+}
+
+/*Estilo do rodape*/
+
+footer {
+
+    background-color: #333;
+
+    color: #f4f4f4;
+
+    text-align: center;
+
+    padding: 10;
+
+    position: fixed;
+
+    bottom: 0;
+
+    width: 100%;
+    
+}
